@@ -19,10 +19,15 @@
         </div>
       </div>
     </header>
-    <div>
+    <div class="content">
       <div>
         <h1>Voortgangsmonitor</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <img class="hu-logo" src="media/HU-logo.jpg" />
+        <p>Deze voortgangsmonitor dient je inzicht te geven in de studievooruitgang. Op de Profiel pagina kun je informatie omtrent de personen instellen.<br>
+        Op de pagina vooruitgang kun je vervolgens de vakken invullen, het aantal ECTS ervan en de datum waarop het vak is behaald.<br>
+        Door op de knop berkenen studietempo te klikken zal vervolgens een dialoogvenster verschijnen dat op basis van de ingevoerde informatie het studietempo berekend.</p>
+        <p>Deze versie van de voortgangsmonitor is echter nog erg beperkt in zijn functionaliteit, omdat het niet zo zeer om de werking ervan gaat, maar veelmeer om de goede omzetting van een wireframe naar een HTML, CSS en JS.</p>
+        <center><img class="klas" src="media/Klieren.jpeg" /></center>
       </div>
     </div>
   </body>

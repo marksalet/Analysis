@@ -52,3 +52,16 @@ header {
   vertical-align: middle;
   margin: 0 10px;
 }
+.content {
+  padding: 0 15%;
+}
+.hu-logo {
+  height: 150px;
+  width: auto;
+  float: right;
+  top: 0px;
+}
+.klas {
+  height: 250px;
+  width: auto;
+}
