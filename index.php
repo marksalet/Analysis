@@ -8,9 +8,9 @@
   <body>
     <header>
       <div class="menu">
-        <div class="button active"><a href="">Home</a></div>
-        <div class="button"><a href="">Profiel</a></div>
-        <div class="button"><a href="">Voortgang</a></div>
+        <div class="button active"><a class="active" href="index.php">Home</a></div>
+        <div class="button"><a href="profiel.php">Profiel</a></div>
+        <div class="button"><a href="voortgang.php">Voortgang</a></div>
       </div>
       <div class="profile-outer">
         <div class="profile-placeholder">
@@ -23,8 +23,8 @@
       <div>
         <h1>Voortgangsmonitor</h1>
         <img class="hu-logo" src="media/HU-logo.jpg" />
-        <p>Deze voortgangsmonitor dient je inzicht te geven in de studievooruitgang. Op de Profiel pagina kun je informatie omtrent de personen instellen.<br>
-        Op de pagina vooruitgang kun je vervolgens de vakken invullen, het aantal ECTS ervan en de datum waarop het vak is behaald.<br>
+        <p>Deze voortgangsmonitor dient je inzicht te geven in de studievooruitgang. Op de <a class="link" href="profiel.php">Profiel</a> pagina kun je informatie omtrent de personen instellen.<br>
+        Op de <a class="link" href="voortgang.php">voortgang</a> pagina kun je vervolgens de vakken invullen, het aantal ECTS ervan en de datum waarop het vak is behaald.<br>
         Door op de knop berkenen studietempo te klikken zal vervolgens een dialoogvenster verschijnen dat op basis van de ingevoerde informatie het studietempo berekend.</p>
         <p>Deze versie van de voortgangsmonitor is echter nog erg beperkt in zijn functionaliteit, omdat het niet zo zeer om de werking ervan gaat, maar veelmeer om de goede omzetting van een wireframe naar een HTML, CSS en JS.</p>
         <center><img class="klas" src="media/Klieren.jpeg" /></center>

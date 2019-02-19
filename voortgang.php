@@ -9,8 +9,8 @@
     <header>
       <div class="menu">
         <div class="button"><a href="index.php">Home</a></div>
-        <div class="button active"><a class="active" href="profiel.php">Profiel</a></div>
-        <div class="button"><a href="voortgang.php">Voortgang</a></div>
+        <div class="button"><a href="profiel.php">Profiel</a></div>
+        <div class="button active"><a class="active" href="voortgang.php">Voortgang</a></div>
       </div>
       <div class="profile-outer">
         <div class="profile-placeholder">
@@ -20,9 +20,7 @@
       </div>
     </header>
     <div class="content">
-      <div>
-        <h1>Profiel</h1>
-      </div>
+
     </div>
   </body>
 </html>
