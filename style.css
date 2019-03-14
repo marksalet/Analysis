@@ -36,6 +36,7 @@ header {
 .active {
   background-color: blue;
   border: none;
+  color: white;
 }
 .profile-outer {
   display: table-cell;
@@ -68,4 +69,22 @@ header {
 .klas {
   height: 250px;
   width: auto;
+}
+table {
+  width: 100%;
+}
+th{
+  text-align: left;
+}
+.table-left {
+  width: 50%;
+  float: left;
+}
+.table-right {
+  width: 50%;
+  float: right;
+}
+.table-photo {
+  width: 200px;
+  height: auto;
 }
