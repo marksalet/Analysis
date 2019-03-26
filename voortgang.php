@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="UTF-8">
-    <title>Home</title>
+    <title>Vooruitgang</title>
     <link type="text/css" rel="stylesheet" href="style.css">
   </head>
   <body>
